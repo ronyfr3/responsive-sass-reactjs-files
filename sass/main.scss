@@ -1,0 +1,27 @@
+@import "./abstract/variable";
+@import "./base/base";
+@import "./abstract/mixin";
+
+// COMPONENT
+@import "./component/app";
+@import "./component/contact";
+@import "./component/about";
+@import "./component/footer";
+@import "./component/header";
+@import "./component/home";
+@import "./component/service";
+@import "./component/slider";
+@import "./component/counter";
+@import "./component/serviceSection";
+@import "./component/trust";
+@import "./component/workWithUs";
+@import "./component/TopBtn";
+@import "./component/FooterBanner";
+@import "./component/windowlocation";
+@import "./component/topbanner";
+@import "./component/errHandler";
+@import "./component/pagenotFound";
+@import "./component/faq";
+@import "./component/loader";
+@import "./component/policy";
+@import "./component/preloader";
